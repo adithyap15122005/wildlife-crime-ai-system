@@ -1,0 +1,10 @@
+feedparser
+deep-translator
+sentence-transformers
+spacy
+pandas
+joblib
+trafilatura
+scikit-learn
+torch
+numpy
